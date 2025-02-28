@@ -2,4 +2,6 @@
 
 int main(){
     Printf("Desafio cartas super trunfo!\n");
+    Printf("Novo Comit\n");
 }
+
