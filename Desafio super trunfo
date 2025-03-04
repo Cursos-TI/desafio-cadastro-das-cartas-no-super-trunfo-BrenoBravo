@@ -5,3 +5,14 @@ int main(){
     Printf("Novo Comit\n");
 }
 
+{"Comparação de cartas (Atributo: População"):}
+
+Carta 1- Minas gerais (MG): 10.000.000 
+Carta 2- Belo horizonte (BH): 6.000.000
+
+if (População carta 1 > polulação carta 2){
+    Printf:("carta 1 venceu!/n")
+}    
+else (População carta 2 > população carta 1){
+      Printf:("carta 2 venceu!/n")
+}
