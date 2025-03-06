@@ -1,30 +1,19 @@
 #include <stdio.h>;
 
 int main(){
-    Printf("Desafio cartas super trunfo!\n");
-    Printf("Novo Comit\n");
 }
+    Carta 1:
 
-{"Comparação de cartas (Atributo: População)":}
+Estado: A
 
-Carta 1- Minas gerais (MG): 10.000.000 
-Carta 2- Belo horizonte (BH): 6.000.000
+Código: A01
 
-if (População carta 1 > polulação carta 2){
-    Printf:("carta 1 venceu!/n")
-}    
-else (População carta 2 > população carta 1){
-      Printf:("carta 2 venceu!/n")
-}
+Nome da Cidade: Rio de janeiro
 
-{"Comparação de cartas (Atributo: PIB)":}
+População: 13455250
 
-Carta 1 - PIB: 5.000.000
-Carta 2 - PiB: 10.000.000
+Área: 2391.10 km²
 
-if (PIB carta 1 < PIB carta 2){
-    Printf:("Carta 2 venceu!/n")
-}
-else (PIB carta 1 > PIB carta 2){
-    Printf:("Carta 1 venceu!/n")
-}
+PIB: 800 bilhões de reais
+
+Número de Pontos Turísticos: 20
