@@ -20,6 +20,7 @@ PIB: 140.54 bilhões de reais
 Número de Pontos Turísticos: 8
 
 printf: ("Minas gerais tem 5000000 de população!/n")
+{}
 
 return 0;
 
