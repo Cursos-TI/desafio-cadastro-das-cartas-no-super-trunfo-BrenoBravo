@@ -17,3 +17,7 @@ População: 13455250
 PIB: 800 bilhões de reais
 
 Número de Pontos Turísticos: 20
+
+printf: ("Rio de janeiro tem 20 pontos turisticos!/n")
+
+return 0;
